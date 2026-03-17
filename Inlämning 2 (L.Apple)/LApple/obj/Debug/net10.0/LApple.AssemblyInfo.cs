@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LApple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72665c81d70fda115b6d3638d5ec61018d502be")]
 [assembly: System.Reflection.AssemblyProductAttribute("LApple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LApple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
